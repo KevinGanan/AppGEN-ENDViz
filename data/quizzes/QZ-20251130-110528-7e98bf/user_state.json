@@ -1,0 +1,34 @@
+{
+  "users": {
+    "Juan Perez": {
+      "idx": 4,
+      "finished": true,
+      "started_at": "2025-11-30T11:18:56",
+      "finished_at": "2025-11-30T11:20:30"
+    },
+    "E01": {
+      "idx": 4,
+      "finished": true,
+      "started_at": "2025-11-30T11:31:29",
+      "finished_at": "2025-11-30T11:32:01"
+    },
+    "Kevin": {
+      "idx": 4,
+      "finished": true,
+      "started_at": "2025-11-30T11:43:35",
+      "finished_at": "2025-11-30T11:54:52"
+    },
+    "Juana": {
+      "idx": 4,
+      "finished": true,
+      "started_at": "2025-11-30T11:56:21",
+      "finished_at": "2025-11-30T11:56:34"
+    },
+    "Carla": {
+      "idx": 4,
+      "finished": true,
+      "started_at": "2025-11-30T12:07:46",
+      "finished_at": "2025-11-30T12:08:03"
+    }
+  }
+}

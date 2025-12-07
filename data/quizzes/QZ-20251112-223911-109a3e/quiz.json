@@ -1,0 +1,20 @@
+{
+  "quiz_id": "QZ-20251112-223911-109a3e",
+  "title": "Quiz de Estructuras de Datos",
+  "tema": "Colas",
+  "created_at": "2025-11-12T22:39:11",
+  "questions": [
+    {
+      "image_id": "IMG-20251111-221934",
+      "image_path": "data/imagenes/IMG-2025-11-11-Colas-DALLE-5d3234cc.png",
+      "stem": "Selecciona el prompt/concepto más adecuado para la imagen (Colas / Una cola es una estructura de datos que almacena elementos en una lista y permite acceder a los datos por uno de los dos extremos de la lista)",
+      "options": [
+        "Opción alternativa",
+        "Opción alternativa",
+        "Explica el funcionamiento de las colas basado en este diagrama conceptual:\n\n**Análisis del Diagrama:**\n- \"Final\" → Punto de ENCOLAR (entrada de elementos)\n- \"Principio\" → Punto de DESENCOLAR (salida de elementos)\n- Flujo unidireccional: Final → Principio\n\n**Desglose Conceptual:**\n1. **Principio FIFO (First In, First Out):**\n   - Primer elemento en entrar es el primero en salir\n   - Analogía: Fila del banco - primera persona en llegar es primera en ser atendida\n\n2. **Operación ENCOLAR (Enqueue):**\n   - Agregar elementos por el FINAL de la cola\n   - Los nuevos elementos se colocan al final de la fila\n   - Ejemplo: Llega nueva persona al banco → se forma al final\n\n3. **Operación DESENCOLAR (Dequeue):**\n   - Remover elementos por el PRINCIPIO de la cola\n   - Siempre se atiende al elemento que lleva más tiempo esperando\n   - Ejemplo: Se atiende a la persona que llegó primero\n\n**Implementación Práctica:**\n[Mostrar código Python/Java/C++ con clase Cola y métodos encolar/desencolar]\n\n**Ejemplo Secuencial:**\n[Mostrar evolución de la cola paso a paso con operaciones encolar/desencolar]\n\n**Aplicaciones Reales:**\n- Sistemas de tickets de atención\n- Buffers de impresión\n- Procesamiento de pedidos por orden de llegada\n- Búsqueda en amplitud (BFS) en grafos",
+        "Opción alternativa"
+      ],
+      "correct_idx": 2
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "users": {
+    "Kevin": {
+      "idx": 4,
+      "finished": true,
+      "started_at": "2025-11-30T11:28:39",
+      "finished_at": "2025-11-30T11:29:51"
+    },
+    "E01": {
+      "idx": 4,
+      "finished": true,
+      "started_at": "2025-11-30T11:32:32",
+      "finished_at": "2025-11-30T11:33:09"
+    }
+  }
+}

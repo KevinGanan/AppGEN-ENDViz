@@ -1,0 +1,69 @@
+{
+  "quiz_id": "QZ-20251130-112144-2d599c",
+  "title": "Bfs 2",
+  "access_code": "12345",
+  "created_at": "2025-11-30T11:21:44",
+  "quiz_role": "postest",
+  "questions": [
+    {
+      "stem": "Según las imágenes de GEN-EDViz, ¿qué significa que los nodos estén coloreados por niveles en BFS?",
+      "options": [
+        "a) Indican el grado de cada nodo",
+        "b) Representan la profundidad o distancia desde el nodo inicial",
+        "c) Señalan si el nodo tiene ciclos",
+        "d) Indican la cantidad de vecinos del nodo"
+      ],
+      "correct_idx": 2,
+      "image_path": "",
+      "image_id": ""
+    },
+    {
+      "stem": "En las visualizaciones, ¿qué representa la flecha o resaltado aplicado sobre algunos nodos durante BFS?",
+      "options": [
+        "a) El camino más largo",
+        "b) El nodo con menor peso",
+        "c) El proceso de visita en el orden correcto",
+        "d) La eliminación de nodos innecesarios"
+      ],
+      "correct_idx": 2,
+      "image_path": "",
+      "image_id": ""
+    },
+    {
+      "stem": "En las imágenes generadas, el primer nodo visitado suele estar marcado de forma destacada. ¿Qué representa?",
+      "options": [
+        "a) Nodo con mayor grado",
+        "b) Nodo raíz o punto de partida del recorrido",
+        "c) Nodo aislado",
+        "d) Nodo final del camino más corto"
+      ],
+      "correct_idx": 1,
+      "image_path": "",
+      "image_id": ""
+    },
+    {
+      "stem": "Según las imágenes del sistema, ¿qué representa que la cola se muestre como una lista de nodos que avanza de izquierda a derecha?",
+      "options": [
+        "a) Los nodos eliminados del grafo",
+        "b) El orden en que serán explorados próximamente",
+        "c) Los nodos más importantes del grafo",
+        "d) Un subconjunto con los nodos visitados más de una vez"
+      ],
+      "correct_idx": 1,
+      "image_path": "",
+      "image_id": ""
+    },
+    {
+      "stem": "En las visualizaciones de rutas más cortas usando BFS, ¿cómo se muestra el camino encontrado?",
+      "options": [
+        "a) Con un color o trazo destacado entre el nodo inicial y el final",
+        "b) Con nodos desordenados",
+        "c) Aleatoriamente seleccionado",
+        "d) Con flechas que apuntan a nodos no conectados"
+      ],
+      "correct_idx": 0,
+      "image_path": "",
+      "image_id": ""
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "47a0c72bb75440e69eea985de5af6b3a": {
+    "auth_ok": true,
+    "auth_role": "Estudiante",
+    "auth_name": "Kevin Ganan",
+    "class_code": "EDATA-2025A",
+    "updated_at": "2025-11-19T14:56:07"
+  },
+  "7e6b629fef5141929e77ccdec28a2994": {
+    "auth_ok": true,
+    "auth_role": "Estudiante",
+    "auth_name": "Kevin Ganan",
+    "class_code": "EDATA-2025A",
+    "updated_at": "2025-11-19T15:38:03"
+  },
+  "947ef686d9174838a4f4e98f693528b6": {
+    "auth_ok": true,
+    "auth_role": "Docente",
+    "auth_name": "Dennys",
+    "class_code": "EDATA-2025A",
+    "updated_at": "2025-11-19T15:38:15"
+  },
+  "9f7384443baf44c092037284bd230117": {
+    "auth_ok": true,
+    "auth_role": "Docente",
+    "auth_name": "Dennys",
+    "class_code": "EDATA-2025A",
+    "updated_at": "2025-11-19T15:48:06"
+  },
+  "e67eb937ea704879a1ebe5d262070120": {
+    "auth_ok": true,
+    "auth_role": "Estudiante",
+    "auth_name": "Kevin Ganan",
+    "class_code": "EDATA-2025A",
+    "updated_at": "2025-11-19T15:48:37"
+  },
+  "cdb99b92a8864bf8ab2d0e35a10c28fa": {
+    "auth_ok": true,
+    "auth_role": "Docente",
+    "auth_name": "Dennys",
+    "class_code": "EDATA-2025A",
+    "updated_at": "2025-11-19T21:48:28"
+  },
+  "8abf9b02576f44389edc51b35c3c17b1": {
+    "auth_ok": true,
+    "auth_role": "Estudiante",
+    "auth_name": "Kevin Ganan",
+    "class_code": "EDATA-2025A",
+    "updated_at": "2025-11-19T21:51:39"
+  },
+  "ce9fdc5adf5745828a2962ac7ba73aaf": {
+    "auth_ok": true,
+    "auth_role": "Estudiante",
+    "auth_name": "Juan",
+    "class_code": "EDATA-2025A",
+    "updated_at": "2025-11-19T21:52:38"
+  },
+  "1706543e611143c3964764ef3d2344db": {
+    "auth_ok": true,
+    "auth_role": "Docente",
+    "auth_name": "Dennys",
+    "class_code": "EDATA-2025A",
+    "updated_at": "2025-11-20T10:38:49"
+  },
+  "e35962bb962841dda3fdfcc71efb48e2": {
+    "auth_ok": true,
+    "auth_role": "Estudiante",
+    "auth_name": "Kevin Ganan",
+    "class_code": "EDATA-2025A",
+    "updated_at": "2025-11-20T10:40:27"
+  },
+  "238cdca1679f4c3ba8afde26fd83ba31": {
+    "auth_ok": true,
+    "auth_role": "Docente",
+    "auth_name": "Dennys",
+    "class_code": "EDATA-2025A",
+    "updated_at": "2025-11-20T12:38:36"
+  },
+  "85e9ea85283344818afb71a8687dc27e": {
+    "auth_ok": true,
+    "auth_role": "Docente",
+    "auth_name": "Dennys",
+    "class_code": "EDATA-2025A",
+    "updated_at": "2025-11-20T12:39:56"
+  },
+  "21cf87ab93d64cf98dd1e26a0e1d1831": {
+    "auth_ok": true,
+    "auth_role": "Docente",
+    "auth_name": "Dennys",
+    "class_code": "EDATA-2025A",
+    "updated_at": "2025-11-20T15:07:00"
+  },
+  "c2d339f78c704681af3e4090ed851d9e": {
+    "auth_ok": true,
+    "auth_role": "Docente",
+    "auth_name": "Dennys",
+    "class_code": "EDATA-2025A",
+    "updated_at": "2025-11-20T15:32:58"
+  },
+  "14acac5053e64a0889ae595d1ba8ee74": {
+    "auth_ok": true,
+    "auth_role": "Estudiante",
+    "auth_name": "Kevin Ganan",
+    "class_code": "EDATA-2025A",
+    "updated_at": "2025-11-20T15:33:35"
+  },
+  "485afaaf72994eee8a525b34dcccfd97": {
+    "auth_ok": true,
+    "auth_role": "Docente",
+    "auth_name": "Dennys",
+    "class_code": "EDATA-2025A",
+    "updated_at": "2025-11-20T16:30:06"
+  },
+  "504a0dc36b5948c6b117648298c71cae": {
+    "auth_ok": true,
+    "auth_role": "Estudiante",
+    "auth_name": "Kevin Ganan",
+    "class_code": "EDATA-2025A",
+    "updated_at": "2025-11-20T16:31:47"
+  },
+  "c515beccf84842cc97467f94a456fda5": {
+    "auth_ok": true,
+    "auth_role": "Docente",
+    "auth_name": "Dennys",
+    "class_code": "EDATA-2025A",
+    "updated_at": "2025-11-20T16:55:29"
+  },
+  "26ae36e01795499c87c0a416d6861ee4": {
+    "auth_ok": true,
+    "auth_role": "Estudiante",
+    "auth_name": "Kevin Ganan",
+    "class_code": "EDATA-2025A",
+    "updated_at": "2025-11-20T16:56:53"
+  },
+  "078bd2ab2833420da339b979e6cfef91": {
+    "auth_ok": true,
+    "auth_role": "Docente",
+    "auth_name": "Dennys",
+    "class_code": "EDATA-2025A",
+    "updated_at": "2025-11-20T17:13:43"
+  },
+  "f71096e0d8dc4a68ae2e6ae61218af5b": {
+    "auth_ok": true,
+    "auth_role": "Estudiante",
+    "auth_name": "Kevin Ganan",
+    "class_code": "EDATA-2025A",
+    "updated_at": "2025-11-20T17:16:52"
+  },
+  "0d9863d2082b4812a12cebce6ca8e7b8": {
+    "auth_ok": true,
+    "auth_role": "Docente",
+    "auth_name": "Dennys",
+    "class_code": "EDATA-2025A",
+    "updated_at": "2025-11-20T21:03:15"
+  },
+  "39f7bc53f9764524ad208b5e8a4b335b": {
+    "auth_ok": true,
+    "auth_role": "Estudiante",
+    "auth_name": "Kevin Ganan",
+    "class_code": "EDATA-2025A",
+    "updated_at": "2025-11-20T21:03:29"
+  },
+  "1ab0d00762674d57a58541ca0ee00cc5": {
+    "auth_ok": true,
+    "auth_role": "Estudiante",
+    "auth_name": "poas",
+    "class_code": "EDATA-2025A",
+    "updated_at": "2025-11-20T21:17:08"
+  },
+  "758635d906ed4149af463368867d3f93": {
+    "auth_ok": true,
+    "auth_role": "Docente",
+    "auth_name": "Dennys",
+    "class_code": "EDATA-2025A",
+    "updated_at": "2025-11-24T11:26:44"
+  },
+  "dd80d9859f39402daa957ca550642c5a": {
+    "auth_ok": true,
+    "auth_role": "Docente",
+    "auth_name": "Dennys",
+    "class_code": "EDATA-2025A",
+    "updated_at": "2025-11-24T11:49:10"
+  },
+  "e4fe83ee7d0343419b4fdf8a69055499": {
+    "auth_ok": true,
+    "auth_role": "Docente",
+    "auth_name": "Dennys",
+    "class_code": "EDATA-2025A",
+    "updated_at": "2025-11-24T11:51:34"
+  },
+  "60b8e3bea2f74006bcb264d88ca013ae": {
+    "auth_ok": true,
+    "auth_role": "Docente",
+    "auth_name": "Dennys",
+    "class_code": "EDATA-2025A",
+    "updated_at": "2025-11-25T11:38:35"
+  },
+  "5a8a8b4f687d44c08626917f50ce2ad4": {
+    "auth_ok": true,
+    "auth_role": "Estudiante",
+    "auth_name": "Kevin Ganan",
+    "class_code": "EDATA-2025A",
+    "updated_at": "2025-11-25T11:39:37"
+  },
+  "b4f1ece009b94522a33d3f1b8a26ce8d": {
+    "auth_ok": true,
+    "auth_role": "Docente",
+    "auth_name": "Dennys",
+    "class_code": "EDATA-2025A",
+    "updated_at": "2025-11-25T21:29:18"
+  },
+  "f1f108462f204ae1b368c334612fd33f": {
+    "auth_ok": true,
+    "auth_role": "Docente",
+    "auth_name": "Dennys",
+    "class_code": "EDATA-2025A",
+    "updated_at": "2025-11-26T18:20:41"
+  },
+  "7e14ecb5eddf4c19843b1c9100f92b90": {
+    "auth_ok": true,
+    "auth_role": "Docente",
+    "auth_name": "Dennys",
+    "class_code": "EDATA-2025A",
+    "updated_at": "2025-11-29T11:04:36"
+  },
+  "dff683bd878f4f04a130e79c20aed960": {
+    "auth_ok": true,
+    "auth_role": "Docente",
+    "auth_name": "Dennys",
+    "class_code": "EDATA-2025A",
+    "updated_at": "2025-11-29T11:35:23"
+  },
+  "1a6a847e002b41ca91fc776345838ba0": {
+    "auth_ok": true,
+    "auth_role": "Estudiante",
+    "auth_name": "Kevin Ganan",
+    "class_code": "EDATA-2025A",
+    "updated_at": "2025-11-29T11:40:42"
+  },
+  "b34df012293a423595fe6d9a533ac661": {
+    "auth_ok": true,
+    "auth_role": "Docente",
+    "auth_name": "Dennys",
+    "class_code": "EDATA-2025A",
+    "updated_at": "2025-11-29T11:44:36"
+  },
+  "4cc6a4dbf42f4236889ab95c335e1dc0": {
+    "auth_ok": true,
+    "auth_role": "Docente",
+    "auth_name": "Dennys",
+    "class_code": "EDATA-2025A",
+    "updated_at": "2025-11-30T10:23:16"
+  },
+  "a8a1823678da464eb64f8fd83da3619c": {
+    "auth_ok": true,
+    "auth_role": "Estudiante",
+    "auth_name": "Kevin Ganan",
+    "class_code": "EDATA-2025A",
+    "updated_at": "2025-11-30T10:24:51"
+  },
+  "cb5be6436af14295b570c9ecff8acb0a": {
+    "auth_ok": true,
+    "auth_role": "Docente",
+    "auth_name": "Dennys",
+    "class_code": "EDATA-2025A",
+    "updated_at": "2025-12-06T12:59:29"
+  },
+  "2ffb05e5f71449b2ae2729c6483e12aa": {
+    "auth_ok": true,
+    "auth_role": "Docente",
+    "auth_name": "Dennys",
+    "class_code": "EDATA-2025A",
+    "updated_at": "2025-12-06T21:09:09"
+  },
+  "b5e5eccc7a3748a2bebd55d729501004": {
+    "auth_ok": true,
+    "auth_role": "Docente",
+    "auth_name": "Dennys",
+    "class_code": "EDATA-2025A",
+    "updated_at": "2025-12-06T21:38:44"
+  }
+}

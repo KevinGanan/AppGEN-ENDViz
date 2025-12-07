@@ -1,0 +1,37 @@
+ts,user,role,action,ref_id,extra_json
+2025-11-19T15:49:12,Dennys,Docente,board.create,FB-20251119-154911-6889d5,{"title": "Ideas clave de Grafos", "tema": "grafos"}
+2025-11-19T15:49:15,Dennys,Docente,board.create,FB-20251119-154915-586f47,{"title": "Ideas clave de Grafos", "tema": "grafos"}
+2025-11-19T15:49:22,Dennys,Docente,board.create,FB-20251119-154922-f15127,{"title": "Ideas clave de Grafos", "tema": "grafos"}
+2025-11-19T21:50:30,Dennys,Docente,board.create,FB-20251119-215030-b07567,{"title": "Ideas clave de Grafos", "tema": "grafos"}
+2025-11-19T21:50:36,Dennys,Docente,board.create,FB-20251119-215036-14913e,{"title": "Ideas clave de Grafos", "tema": "grafos"}
+2025-11-19T21:50:38,Dennys,Docente,board.create,FB-20251119-215038-b3836d,{"title": "Ideas clave de Grafos", "tema": "grafos"}
+2025-11-19T21:50:43,Dennys,Docente,board.create,FB-20251119-215043-ac5698,{"title": "Ideas clave de Grafos", "tema": "grafos"}
+2025-11-19T21:50:54,Dennys,Docente,board.create,FB-20251119-215054-207add,{"title": "Ideas clave de Grafos", "tema": "grafos"}
+2025-11-20T11:00:29,Dennys,Docente,board.create,FB-20251120-110028-661f1b,{"title": "Ideas clave de Grafos", "tema": "grafos"}
+2025-11-20T15:37:17,Kevin Ganan,Estudiante,quiz.join,QZ-20251120-153440-3e4fbc,{"user": "Kevin"}
+2025-11-20T16:57:41,Kevin Ganan,Estudiante,quiz.join,QZ-20251120-165539-02cba2,{"user": "Juan"}
+2025-11-20T17:16:59,Kevin Ganan,Estudiante,quiz.join,QZ-20251120-171356-24dd56,{"user": "Juan"}
+2025-11-20T21:13:41,Kevin Ganan,Estudiante,quiz.join,QZ-20251120-210818-076db3,{"user": "Kevin"}
+2025-11-20T21:15:04,Dennys,Docente,board.create,FB-20251120-211504-9fac61,{"title": "Ideas clave de Grafos", "tema": "grafos"}
+2025-11-20T21:15:53,Dennys,Docente,board.create,FB-20251120-211553-b691a6,{"title": "Ideas clave de Grafos", "tema": "grafos"}
+2025-11-26T19:01:43,Dennys,Docente,rubric.submit,IMG-20251111-221934,{"scores": {"fidelidad": 3, "claridad": 4, "pertinencia": 4, "equidad": 3}, "tema": "Colas", "decision_uso": "usar_con_ajustes", "severidad": "menores"}
+2025-11-26T19:03:04,Dennys,Docente,rubric.submit,IMG-20251111-221934,{"scores": {"fidelidad": 3, "claridad": 4, "pertinencia": 4, "equidad": 2}, "tema": "Colas", "decision_uso": "usar_con_ajustes", "severidad": "menores"}
+2025-11-29T11:35:09,Kevin Ganan,Estudiante,survey.percepcion_submit,,{"user": "Kevin Ganan", "role": "Estudiante", "tema": "", "claridad": 4, "utilidad": 4, "aprendizaje": 4, "motivacion": 4, "sesgos": 4, "comentario": "Buena aportacion", "timestamp": "2025-11-29T11:35:09"}
+2025-11-29T12:14:06,Kevin Ganan,Estudiante,percepcion.submit,Cola,{"user": "Juan perez", "role": "Estudiante", "tema": "Cola", "claridad": 4, "utilidad": 4, "aprendizaje": 4, "motivacion": 4, "sesgos": 4, "timestamp": "2025-11-29T12:14:06"}
+2025-11-29T12:14:36,Kevin Ganan,Estudiante,percepcion.submit,Cola,{"user": "jaime", "role": "Estudiante", "tema": "Cola", "claridad": 5, "utilidad": 3, "aprendizaje": 3, "motivacion": 5, "sesgos": 4, "timestamp": "2025-11-29T12:14:36"}
+2025-11-29T14:33:20,Dennys,Docente,rubric.submit,IMG-20251115-182135,{"scores": {"fidelidad": 4, "claridad": 3, "pertinencia": 3, "equidad": 4}, "tema": "Listas Enlazadas ", "decision_uso": "usar_sin_cambios", "severidad": "graves"}
+2025-11-29T14:33:53,Dennys,Docente,catalog.update_state,IMG-20251115-182135,{"estado": "aceptar"}
+2025-11-30T10:59:24,Dennys,Docente,catalog.save,IMG-20251130-105922,{"image_id": "IMG-20251130-105922", "tema": "BFS", "concepto": "Ilustración del recorrido DFS en un grafo dirigido.", "herramienta": "Gemini", "prompt": "Diagrama de un grafo simple no dirigido con 7 nodos. Mostrar el recorrido BFS usando colores secuenciales y flechas numeradas. Grafo dibujado estilo conceptos de ciencias de computación.", "version": "v1", "fecha": "2025-11-30", "autor": "Dennys", "alt_text": "Grafo dirigido con pesos en sus aristas. Nodos como círculos azules, pesos en etiquetas pequeñas.", "ruta": "data/imagenes/IMG-2025-11-30-BFS-Gemini-284bc321.png", "wcag_ratio": 1.59, "edge_density": 0.032, "estado": "pendiente"}
+2025-11-30T11:18:56,Kevin Ganan,Estudiante,quiz.join,QZ-20251130-110528-7e98bf,{"user": "Juan Perez"}
+2025-11-30T11:28:39,Kevin Ganan,Estudiante,quiz.join,QZ-20251130-112144-2d599c,{"user": "Kevin"}
+2025-11-30T11:31:29,Kevin Ganan,Estudiante,quiz.join,QZ-20251130-110528-7e98bf,{"user": "E01"}
+2025-11-30T11:32:32,Kevin Ganan,Estudiante,quiz.join,QZ-20251130-112144-2d599c,{"user": "E01"}
+2025-11-30T11:38:12,Dennys,Docente,board.create,FB-20251130-113812-3cc413,{"title": "BFS", "tema": "Enlaces"}
+2025-11-30T11:43:35,Kevin Ganan,Estudiante,quiz.join,QZ-20251130-110528-7e98bf,{"user": "Kevin"}
+2025-11-30T11:56:21,Kevin Ganan,Estudiante,quiz.join,QZ-20251130-110528-7e98bf,{"user": "Juana"}
+2025-11-30T12:07:46,Kevin Ganan,Estudiante,quiz.join,QZ-20251130-110528-7e98bf,{"user": "Carla"}
+2025-12-06T21:10:21,Dennys,Docente,catalog.save,IMG-20251206-211019,{"image_id": "IMG-20251206-211019", "tema": "prueba", "concepto": "pruena", "herramienta": "Gemini", "prompt": "prueba", "version": "v1", "fecha": "2025-12-06", "autor": "Dennys", "alt_text": "ssss", "ruta": "data/imagenes/IMG-2025-12-06-prueba-Gemini-93c43036.png", "wcag_ratio": 3.0, "edge_density": 0.096, "estado": "pendiente"}
+2025-12-06T21:24:30,Dennys,Docente,catalog.save,IMG-20251206-212429,{"image_id": "IMG-20251206-212429", "tema": "p", "concepto": "p", "herramienta": "Gemini", "prompt": "p", "version": "v1", "fecha": "2025-12-06", "autor": "Dennys", "alt_text": "p", "ruta": "data/imagenes/IMG-2025-12-06-p-Gemini-d51137ea.png", "wcag_ratio": 2.71, "edge_density": 0.034, "estado": "pendiente"}
+2025-12-06T21:39:05,Dennys,Docente,catalog.save,IMG-20251206-213903,{"image_id": "IMG-20251206-213903", "tema": "a", "concepto": "a", "herramienta": "Gemini", "prompt": "a", "version": "v1", "fecha": "2025-12-06", "autor": "Dennys", "alt_text": "a", "ruta": "data/imagenes/IMG-2025-12-06-a-Gemini-3c335446.png", "wcag_ratio": 3.17, "edge_density": 0.04, "estado": "pendiente"}
+2025-12-06T21:39:42,Dennys,Docente,rubric.submit,IMG-20251206-213903,{"scores": {"fidelidad": 3, "claridad": 3, "pertinencia": 3, "equidad": 4}, "tema": "a", "decision_uso": "usar_con_ajustes", "severidad": "ninguno"}
+2025-12-06T21:40:12,Dennys,Docente,catalog.update_state,IMG-20251206-213903,{"estado": "aceptar"}

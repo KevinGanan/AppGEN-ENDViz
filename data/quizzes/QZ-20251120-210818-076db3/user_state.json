@@ -1,0 +1,10 @@
+{
+  "users": {
+    "Kevin": {
+      "idx": 2,
+      "finished": true,
+      "started_at": "2025-11-20T21:13:42",
+      "finished_at": "2025-11-20T21:14:09"
+    }
+  }
+}

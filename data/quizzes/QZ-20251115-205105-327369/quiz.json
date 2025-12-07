@@ -1,0 +1,68 @@
+{
+  "quiz_id": "QZ-20251115-205105-327369",
+  "title": "Evaluación de Estructuras de Datos",
+  "access_code": "123456789",
+  "created_at": "2025-11-15T20:51:05",
+  "questions": [
+    {
+      "stem": "¿Qué principio sigue una estructura de datos tipo pila?",
+      "options": [
+        "A) FIFO (First In, First Out)",
+        "B) LIFO (Last In, First Out)",
+        "C) FILO (First In, Last Out)",
+        "D) LILO (Last In, Last Out)"
+      ],
+      "correct_idx": 1,
+      "image_path": "data/imagenes/IMG-QZ-2025-11-15-922696f4.png",
+      "image_id": ""
+    },
+    {
+      "stem": "En una cola, ¿por qué extremo se eliminan los elementos?",
+      "options": [
+        "A) Por el mismo extremo donde se insertan",
+        "B) Por el extremo contrario al de inserción",
+        "C) Por cualquier extremo aleatoriamente",
+        "D) Por ambos extremos simultáneamente"
+      ],
+      "correct_idx": 1,
+      "image_path": "data/imagenes/IMG-QZ-2025-11-15-dc1a0d85.png",
+      "image_id": ""
+    },
+    {
+      "stem": "¿Cuál es la complejidad temporal para insertar un elemento al inicio de una lista simplemente enlazada?",
+      "options": [
+        "A) O(n)",
+        "B) O(log n)",
+        "C) O(1)",
+        "D) O(n²)"
+      ],
+      "correct_idx": 2,
+      "image_path": "",
+      "image_id": ""
+    },
+    {
+      "stem": "¿Qué recorrido de árbol binario visita los nodos en el orden: raíz, izquierdo, derecho?",
+      "options": [
+        "A) Inorden",
+        "B) Postorden",
+        "C) Preorden",
+        "D) Por niveles"
+      ],
+      "correct_idx": 2,
+      "image_path": "",
+      "image_id": ""
+    },
+    {
+      "stem": "¿Qué algoritmo de búsqueda en grafos utiliza una cola como estructura auxiliar?",
+      "options": [
+        "A) Depth-First Search (DFS)",
+        "B) Breadth-First Search (BFS)",
+        "C) Dijkstra",
+        "D) Binary Search"
+      ],
+      "correct_idx": 1,
+      "image_path": "",
+      "image_id": ""
+    }
+  ]
+}

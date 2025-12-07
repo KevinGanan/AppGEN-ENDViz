@@ -1,0 +1,152 @@
+{
+  "quiz_id": "QZ-20251115-210809-ee0643",
+  "title": "Evaluación de Estructuras de Datos",
+  "access_code": "1345",
+  "created_at": "2025-11-15T21:08:09",
+  "questions": [
+    {
+      "stem": "¿Qué estructura sigue LIFO?",
+      "options": [
+        "Pila",
+        "Cola",
+        "Árbol",
+        "Grafo"
+      ],
+      "correct_idx": 0,
+      "image_path": "nan",
+      "image_id": ""
+    },
+    {
+      "stem": "¿Qué recorrido visita nivel por nivel?",
+      "options": [
+        "DFS",
+        "BFS",
+        "Inorden",
+        "Postorden"
+      ],
+      "correct_idx": 1,
+      "image_path": "nan",
+      "image_id": ""
+    },
+    {
+      "stem": "¿Qué operación elimina el frente en una cola?",
+      "options": [
+        "push",
+        "enqueue",
+        "dequeue",
+        "pop"
+      ],
+      "correct_idx": 2,
+      "image_path": "nan",
+      "image_id": ""
+    },
+    {
+      "stem": "¿Cuál es la complejidad típica de búsqueda en una tabla hash bien distribuida?",
+      "options": [
+        "O(1)",
+        "O(log n)",
+        "O(n)",
+        "O(n log n)"
+      ],
+      "correct_idx": 0,
+      "image_path": "nan",
+      "image_id": ""
+    },
+    {
+      "stem": "¿Qué estructura mantiene siempre el elemento mínimo en la raíz?",
+      "options": [
+        "Montículo (min-heap)",
+        "Árbol binario de búsqueda",
+        "Grafo dirigido",
+        "Lista doble"
+      ],
+      "correct_idx": 0,
+      "image_path": "nan",
+      "image_id": ""
+    },
+    {
+      "stem": "¿Qué rotaciones se usan para reequilibrar un árbol AVL?",
+      "options": [
+        "Simple izquierda/derecha y doble",
+        "Solo simple izquierda",
+        "Solo simple derecha",
+        "No usa rotaciones"
+      ],
+      "correct_idx": 0,
+      "image_path": "nan",
+      "image_id": ""
+    },
+    {
+      "stem": "En un árbol binario de búsqueda, ¿dónde están los valores menores que un nodo?",
+      "options": [
+        "Subárbol derecho",
+        "Subárbol izquierdo",
+        "En cualquier lado",
+        "En la raíz"
+      ],
+      "correct_idx": 1,
+      "image_path": "nan",
+      "image_id": ""
+    },
+    {
+      "stem": "¿Qué estructura es la más adecuada para realizar un backtracking?",
+      "options": [
+        "Cola",
+        "Pila",
+        "Lista circular",
+        "Montículo"
+      ],
+      "correct_idx": 1,
+      "image_path": "nan",
+      "image_id": ""
+    },
+    {
+      "stem": "¿Cuál es la salida del recorrido inorden en un ABB?",
+      "options": [
+        "Valores en orden descendente",
+        "Valores en zigzag",
+        "Valores en orden ascendente",
+        "Valores aleatorios"
+      ],
+      "correct_idx": 2,
+      "image_path": "nan",
+      "image_id": ""
+    },
+    {
+      "stem": "¿Qué estructura usarías para el algoritmo de Dijkstra?",
+      "options": [
+        "Pila",
+        "Cola FIFO simple",
+        "Cola de prioridad",
+        "Lista enlazada"
+      ],
+      "correct_idx": 2,
+      "image_path": "nan",
+      "image_id": ""
+    },
+    {
+      "stem": "¿Qué define a un grafo bipartito?",
+      "options": [
+        "Los vértices pueden dividirse en dos conjuntos sin aristas internas en cada conjunto",
+        "Todos los vértices tienen el mismo grado",
+        "No tiene ciclos",
+        "Tiene exactamente un ciclo"
+      ],
+      "correct_idx": 0,
+      "image_path": "nan",
+      "image_id": ""
+    },
+    {
+      "stem": "Para detectar un ciclo en un grafo no dirigido con DFS, ¿qué condición se verifica?",
+      "options": [
+        "Visitar un vértice de grado 1",
+        "Encontrar una arista a un vértice ya visitado que no sea el padre",
+        "Llegar a un vértice sin salidas",
+        "Encontrar una arista de peso 0"
+      ],
+      "correct_idx": 1,
+      "image_path": "nan",
+      "image_id": ""
+    }
+  ]
+}

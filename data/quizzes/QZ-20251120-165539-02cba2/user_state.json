@@ -1,0 +1,10 @@
+{
+  "users": {
+    "Juan": {
+      "idx": 0,
+      "finished": false,
+      "started_at": "2025-11-20T16:57:41",
+      "finished_at": null
+    }
+  }
+}

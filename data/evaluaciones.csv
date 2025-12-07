@@ -1,0 +1,33 @@
+image_id,tema,concepto,rater,criterio,puntaje,comentario,timestamp,decision_uso,severidad,comentario_global
+IMG-20251111-220849,Pilas," es una estructura de datos lineal que sigue el principio LIFO (Last In, First Out), lo que significa que el último elemento en entrar es el primero en salir.",Dennis ,fidelidad,3,Muy bien,2025-11-11T22:09:57,,,
+IMG-20251111-220849,Pilas," es una estructura de datos lineal que sigue el principio LIFO (Last In, First Out), lo que significa que el último elemento en entrar es el primero en salir.",Dennis ,claridad,3,Muy bien,2025-11-11T22:09:57,,,
+IMG-20251111-220849,Pilas," es una estructura de datos lineal que sigue el principio LIFO (Last In, First Out), lo que significa que el último elemento en entrar es el primero en salir.",Dennis ,pertinencia,3,Muy bien,2025-11-11T22:09:57,,,
+IMG-20251111-220849,Pilas," es una estructura de datos lineal que sigue el principio LIFO (Last In, First Out), lo que significa que el último elemento en entrar es el primero en salir.",Dennis ,equidad,3,Muy bien,2025-11-11T22:09:57,,,
+IMG-20251111-221934,Colas,Una cola es una estructura de datos que almacena elementos en una lista y permite acceder a los datos por uno de los dos extremos de la lista,Dennys chicaiza,fidelidad,4,Bien,2025-11-11T22:21:27,,,
+IMG-20251111-221934,Colas,Una cola es una estructura de datos que almacena elementos en una lista y permite acceder a los datos por uno de los dos extremos de la lista,Dennys chicaiza,claridad,3,Bien,2025-11-11T22:21:27,,,
+IMG-20251111-221934,Colas,Una cola es una estructura de datos que almacena elementos en una lista y permite acceder a los datos por uno de los dos extremos de la lista,Dennys chicaiza,pertinencia,4,Bien,2025-11-11T22:21:27,,,
+IMG-20251111-221934,Colas,Una cola es una estructura de datos que almacena elementos en una lista y permite acceder a los datos por uno de los dos extremos de la lista,Dennys chicaiza,equidad,4,Bien,2025-11-11T22:21:27,,,
+IMG-20251112-111825,"Árboles, estructuras de datos.",Árbol de Búsqueda Binaria (Binary Search Tree - BST).,Dennys chicaiza,fidelidad,4,Si muy bueno,2025-11-12T11:20:52,,,
+IMG-20251112-111825,"Árboles, estructuras de datos.",Árbol de Búsqueda Binaria (Binary Search Tree - BST).,Dennys chicaiza,claridad,4,No cumple,2025-11-12T11:20:52,,,
+IMG-20251112-111825,"Árboles, estructuras de datos.",Árbol de Búsqueda Binaria (Binary Search Tree - BST).,Dennys chicaiza,pertinencia,3,Si cumple,2025-11-12T11:20:52,,,
+IMG-20251112-111825,"Árboles, estructuras de datos.",Árbol de Búsqueda Binaria (Binary Search Tree - BST).,Dennys chicaiza,equidad,3,Si cumple,2025-11-12T11:20:52,,,
+IMG-20251111-221934,Colas,Una cola es una estructura de datos que almacena elementos en una lista y permite acceder a los datos por uno de los dos extremos de la lista,Dennis ,fidelidad,3,asdas,2025-11-12T16:54:14,,,
+IMG-20251111-221934,Colas,Una cola es una estructura de datos que almacena elementos en una lista y permite acceder a los datos por uno de los dos extremos de la lista,Dennis ,claridad,4,muy bn,2025-11-12T16:54:14,,,
+IMG-20251111-221934,Colas,Una cola es una estructura de datos que almacena elementos en una lista y permite acceder a los datos por uno de los dos extremos de la lista,Dennis ,pertinencia,3,uybyu,2025-11-12T16:54:14,,,
+IMG-20251111-221934,Colas,Una cola es una estructura de datos que almacena elementos en una lista y permite acceder a los datos por uno de los dos extremos de la lista,Dennis ,equidad,3,uybuy,2025-11-12T16:54:14,,,
+IMG-20251111-221934,Colas,Una cola es una estructura de datos que almacena elementos en una lista y permite acceder a los datos por uno de los dos extremos de la lista,Dennys,fidelidad,3,Bien,2025-11-26T19:01:43,usar_con_ajustes,menores,Todo bien
+IMG-20251111-221934,Colas,Una cola es una estructura de datos que almacena elementos en una lista y permite acceder a los datos por uno de los dos extremos de la lista,Dennys,claridad,4,Bien,2025-11-26T19:01:43,usar_con_ajustes,menores,Todo bien
+IMG-20251111-221934,Colas,Una cola es una estructura de datos que almacena elementos en una lista y permite acceder a los datos por uno de los dos extremos de la lista,Dennys,pertinencia,4,Bien,2025-11-26T19:01:43,usar_con_ajustes,menores,Todo bien
+IMG-20251111-221934,Colas,Una cola es una estructura de datos que almacena elementos en una lista y permite acceder a los datos por uno de los dos extremos de la lista,Dennys,equidad,3,Bien,2025-11-26T19:01:43,usar_con_ajustes,menores,Todo bien
+IMG-20251111-221934,Colas,Una cola es una estructura de datos que almacena elementos en una lista y permite acceder a los datos por uno de los dos extremos de la lista,Dennys,fidelidad,3,Bien,2025-11-26T19:03:04,usar_con_ajustes,menores,Todo bien
+IMG-20251111-221934,Colas,Una cola es una estructura de datos que almacena elementos en una lista y permite acceder a los datos por uno de los dos extremos de la lista,Dennys,claridad,4,Bien,2025-11-26T19:03:04,usar_con_ajustes,menores,Todo bien
+IMG-20251111-221934,Colas,Una cola es una estructura de datos que almacena elementos en una lista y permite acceder a los datos por uno de los dos extremos de la lista,Dennys,pertinencia,4,Bien,2025-11-26T19:03:04,usar_con_ajustes,menores,Todo bien
+IMG-20251111-221934,Colas,Una cola es una estructura de datos que almacena elementos en una lista y permite acceder a los datos por uno de los dos extremos de la lista,Dennys,equidad,2,Bien,2025-11-26T19:03:04,usar_con_ajustes,menores,Todo bien
+IMG-20251115-182135,Listas Enlazadas ,Nodos y Punteros,Dennys,fidelidad,4,Bueno,2025-11-29T14:33:20,usar_sin_cambios,graves,Niguno
+IMG-20251115-182135,Listas Enlazadas ,Nodos y Punteros,Dennys,claridad,3,Bueno,2025-11-29T14:33:20,usar_sin_cambios,graves,Niguno
+IMG-20251115-182135,Listas Enlazadas ,Nodos y Punteros,Dennys,pertinencia,3,Bueno,2025-11-29T14:33:20,usar_sin_cambios,graves,Niguno
+IMG-20251115-182135,Listas Enlazadas ,Nodos y Punteros,Dennys,equidad,4,bueno,2025-11-29T14:33:20,usar_sin_cambios,graves,Niguno
+IMG-20251206-213903,a,a,Dennys,fidelidad,3,no,2025-12-06T21:39:42,usar_con_ajustes,ninguno,s
+IMG-20251206-213903,a,a,Dennys,claridad,3,o,2025-12-06T21:39:42,usar_con_ajustes,ninguno,s
+IMG-20251206-213903,a,a,Dennys,pertinencia,3,o,2025-12-06T21:39:42,usar_con_ajustes,ninguno,s
+IMG-20251206-213903,a,a,Dennys,equidad,4,a,2025-12-06T21:39:42,usar_con_ajustes,ninguno,s

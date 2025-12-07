@@ -1,0 +1,20 @@
+{
+  "quiz_id": "QZ-20251115-182437-76ce13",
+  "title": "Quiz de Estructuras de Datos",
+  "tema": "Listas Enlazadas ",
+  "created_at": "2025-11-15T18:24:37",
+  "questions": [
+    {
+      "image_id": "IMG-20251115-182135",
+      "image_path": "data/imagenes/IMG-2025-11-15-Listas-Enlazadas-Gemini-1a0a1a45.png",
+      "stem": "Selecciona el prompt/concepto más adecuado para la imagen (Listas Enlazadas  / Nodos y Punteros)",
+      "options": [
+        "Opción alternativa",
+        "Opción alternativa",
+        "Opción alternativa",
+        "Explica el concepto de listas enlazadas incluyendo:\n\n**Definición Fundamental:**\n- ¿Qué es una lista enlazada y cómo difiere de un array?\n- Concepto de nodos y punteros/enlaces\n- Ventajas y desventajas vs arrays\n\n**Estructura de un Nodo:**\n- Componentes: dato + puntero al siguiente nodo\n- Representación visual: [Dato | →] → [Dato | →] → NULL\n\n**Tipos de Listas Enlazadas:**\n- Listas simplemente enlazadas (Singly Linked)\n- Listas doblemente enlazadas (Doubly Linked)\n- Listas circulares (Circular Linked)"
+      ],
+      "correct_idx": 3
+    }
+  ]
+}

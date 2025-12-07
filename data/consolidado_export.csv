@@ -1,0 +1,530 @@
+image_id,tema,concepto,rater,criterio,puntaje,comentario,timestamp,herramienta,prompt,version,fecha,autor,alt_text,ruta,wcag_ratio,edge_density,estado
+IMG-20251111-220849,Pilas," es una estructura de datos lineal que sigue el principio LIFO (Last In, First Out), lo que significa que el último elemento en entrar es el primero en salir.",Dennis ,fidelidad,3.0,Muy bien,2025-11-11T22:09:57,Gemini,"Analiza esta secuencia de operaciones de una pila y proporciona una explicación detallada:
+
+**Secuencia visualizada:**
+Estado inicial: Pila vacía
+Operaciones: push → push → push → pop
+
+**Estados de la pila:**
+- Empty stack
+- Push → [1]
+- Push → [2, 1]
+- Push → [3, 2, 1]
+- Pop → [2, 1] (retorna 3)
+
+**Solicito:**
+1. Explica paso a paso cada operación mostrada
+2. Describe el principio LIFO (Last In, First Out) con este ejemplo
+3. Muestra la implementación en código de esta secuencia específica
+4. Indica el estado del ""top"" en cada paso
+5. Explica qué sucede con el elemento 3 después del pop
+6. Proporciona el output completo de esta ejecución
+
+**Incluye:**
+- Diagrama conceptual de la evolución de la pila
+- Código que reproduce exactamente esta secuencia
+- Análisis del comportamiento LIFO
+- Posibles aplicaciones donde se usaría este patrón",v2,2025-11-11,Kevin Ganan,"Basado en esta secuencia de operaciones de pila:
+
+Empty stack → push → push → push → pop
+
+**Desarrolla:**
+1. Implementa una clase Pila que pueda reproducir esta secuencia
+2. Simula cada operación mostrando el estado interno
+3. Crea un método que muestre la pila en formato vertical (como en la imagen)
+4. Genera el output esperado después de cada operación
+5. Añade operaciones adicionales (peek, isEmpty) y muestra su uso
+
+**Output esperado del ejercicio:**
+Después de push(1): [1]
+Después de push(2): [2, 1]  
+Después de push(3): [3, 2, 1]
+Después de pop(): [2, 1] (elemento eliminado: 3)
+
+**Extra:** Explica por qué el elemento 3 es el primero en salir aunque fue el último en entrar.",data/imagenes/IMG-2025-11-11-Pilas-Gemini-a8c94d12.png,1.47,0.041,aceptar
+IMG-20251111-220849,Pilas," es una estructura de datos lineal que sigue el principio LIFO (Last In, First Out), lo que significa que el último elemento en entrar es el primero en salir.",Dennis ,claridad,3.0,Muy bien,2025-11-11T22:09:57,Gemini,"Analiza esta secuencia de operaciones de una pila y proporciona una explicación detallada:
+
+**Secuencia visualizada:**
+Estado inicial: Pila vacía
+Operaciones: push → push → push → pop
+
+**Estados de la pila:**
+- Empty stack
+- Push → [1]
+- Push → [2, 1]
+- Push → [3, 2, 1]
+- Pop → [2, 1] (retorna 3)
+
+**Solicito:**
+1. Explica paso a paso cada operación mostrada
+2. Describe el principio LIFO (Last In, First Out) con este ejemplo
+3. Muestra la implementación en código de esta secuencia específica
+4. Indica el estado del ""top"" en cada paso
+5. Explica qué sucede con el elemento 3 después del pop
+6. Proporciona el output completo de esta ejecución
+
+**Incluye:**
+- Diagrama conceptual de la evolución de la pila
+- Código que reproduce exactamente esta secuencia
+- Análisis del comportamiento LIFO
+- Posibles aplicaciones donde se usaría este patrón",v2,2025-11-11,Kevin Ganan,"Basado en esta secuencia de operaciones de pila:
+
+Empty stack → push → push → push → pop
+
+**Desarrolla:**
+1. Implementa una clase Pila que pueda reproducir esta secuencia
+2. Simula cada operación mostrando el estado interno
+3. Crea un método que muestre la pila en formato vertical (como en la imagen)
+4. Genera el output esperado después de cada operación
+5. Añade operaciones adicionales (peek, isEmpty) y muestra su uso
+
+**Output esperado del ejercicio:**
+Después de push(1): [1]
+Después de push(2): [2, 1]  
+Después de push(3): [3, 2, 1]
+Después de pop(): [2, 1] (elemento eliminado: 3)
+
+**Extra:** Explica por qué el elemento 3 es el primero en salir aunque fue el último en entrar.",data/imagenes/IMG-2025-11-11-Pilas-Gemini-a8c94d12.png,1.47,0.041,aceptar
+IMG-20251111-220849,Pilas," es una estructura de datos lineal que sigue el principio LIFO (Last In, First Out), lo que significa que el último elemento en entrar es el primero en salir.",Dennis ,pertinencia,3.0,Muy bien,2025-11-11T22:09:57,Gemini,"Analiza esta secuencia de operaciones de una pila y proporciona una explicación detallada:
+
+**Secuencia visualizada:**
+Estado inicial: Pila vacía
+Operaciones: push → push → push → pop
+
+**Estados de la pila:**
+- Empty stack
+- Push → [1]
+- Push → [2, 1]
+- Push → [3, 2, 1]
+- Pop → [2, 1] (retorna 3)
+
+**Solicito:**
+1. Explica paso a paso cada operación mostrada
+2. Describe el principio LIFO (Last In, First Out) con este ejemplo
+3. Muestra la implementación en código de esta secuencia específica
+4. Indica el estado del ""top"" en cada paso
+5. Explica qué sucede con el elemento 3 después del pop
+6. Proporciona el output completo de esta ejecución
+
+**Incluye:**
+- Diagrama conceptual de la evolución de la pila
+- Código que reproduce exactamente esta secuencia
+- Análisis del comportamiento LIFO
+- Posibles aplicaciones donde se usaría este patrón",v2,2025-11-11,Kevin Ganan,"Basado en esta secuencia de operaciones de pila:
+
+Empty stack → push → push → push → pop
+
+**Desarrolla:**
+1. Implementa una clase Pila que pueda reproducir esta secuencia
+2. Simula cada operación mostrando el estado interno
+3. Crea un método que muestre la pila en formato vertical (como en la imagen)
+4. Genera el output esperado después de cada operación
+5. Añade operaciones adicionales (peek, isEmpty) y muestra su uso
+
+**Output esperado del ejercicio:**
+Después de push(1): [1]
+Después de push(2): [2, 1]  
+Después de push(3): [3, 2, 1]
+Después de pop(): [2, 1] (elemento eliminado: 3)
+
+**Extra:** Explica por qué el elemento 3 es el primero en salir aunque fue el último en entrar.",data/imagenes/IMG-2025-11-11-Pilas-Gemini-a8c94d12.png,1.47,0.041,aceptar
+IMG-20251111-220849,Pilas," es una estructura de datos lineal que sigue el principio LIFO (Last In, First Out), lo que significa que el último elemento en entrar es el primero en salir.",Dennis ,equidad,3.0,Muy bien,2025-11-11T22:09:57,Gemini,"Analiza esta secuencia de operaciones de una pila y proporciona una explicación detallada:
+
+**Secuencia visualizada:**
+Estado inicial: Pila vacía
+Operaciones: push → push → push → pop
+
+**Estados de la pila:**
+- Empty stack
+- Push → [1]
+- Push → [2, 1]
+- Push → [3, 2, 1]
+- Pop → [2, 1] (retorna 3)
+
+**Solicito:**
+1. Explica paso a paso cada operación mostrada
+2. Describe el principio LIFO (Last In, First Out) con este ejemplo
+3. Muestra la implementación en código de esta secuencia específica
+4. Indica el estado del ""top"" en cada paso
+5. Explica qué sucede con el elemento 3 después del pop
+6. Proporciona el output completo de esta ejecución
+
+**Incluye:**
+- Diagrama conceptual de la evolución de la pila
+- Código que reproduce exactamente esta secuencia
+- Análisis del comportamiento LIFO
+- Posibles aplicaciones donde se usaría este patrón",v2,2025-11-11,Kevin Ganan,"Basado en esta secuencia de operaciones de pila:
+
+Empty stack → push → push → push → pop
+
+**Desarrolla:**
+1. Implementa una clase Pila que pueda reproducir esta secuencia
+2. Simula cada operación mostrando el estado interno
+3. Crea un método que muestre la pila en formato vertical (como en la imagen)
+4. Genera el output esperado después de cada operación
+5. Añade operaciones adicionales (peek, isEmpty) y muestra su uso
+
+**Output esperado del ejercicio:**
+Después de push(1): [1]
+Después de push(2): [2, 1]  
+Después de push(3): [3, 2, 1]
+Después de pop(): [2, 1] (elemento eliminado: 3)
+
+**Extra:** Explica por qué el elemento 3 es el primero en salir aunque fue el último en entrar.",data/imagenes/IMG-2025-11-11-Pilas-Gemini-a8c94d12.png,1.47,0.041,aceptar
+IMG-20251111-221934,Colas,Una cola es una estructura de datos que almacena elementos en una lista y permite acceder a los datos por uno de los dos extremos de la lista,Dennys chicaiza,fidelidad,4.0,Bien,2025-11-11T22:21:27,DALL·E,"Explica el funcionamiento de las colas basado en este diagrama conceptual:
+
+**Análisis del Diagrama:**
+- ""Final"" → Punto de ENCOLAR (entrada de elementos)
+- ""Principio"" → Punto de DESENCOLAR (salida de elementos)
+- Flujo unidireccional: Final → Principio
+
+**Desglose Conceptual:**
+1. **Principio FIFO (First In, First Out):**
+   - Primer elemento en entrar es el primero en salir
+   - Analogía: Fila del banco - primera persona en llegar es primera en ser atendida
+
+2. **Operación ENCOLAR (Enqueue):**
+   - Agregar elementos por el FINAL de la cola
+   - Los nuevos elementos se colocan al final de la fila
+   - Ejemplo: Llega nueva persona al banco → se forma al final
+
+3. **Operación DESENCOLAR (Dequeue):**
+   - Remover elementos por el PRINCIPIO de la cola
+   - Siempre se atiende al elemento que lleva más tiempo esperando
+   - Ejemplo: Se atiende a la persona que llegó primero
+
+**Implementación Práctica:**
+[Mostrar código Python/Java/C++ con clase Cola y métodos encolar/desencolar]
+
+**Ejemplo Secuencial:**
+[Mostrar evolución de la cola paso a paso con operaciones encolar/desencolar]
+
+**Aplicaciones Reales:**
+- Sistemas de tickets de atención
+- Buffers de impresión
+- Procesamiento de pedidos por orden de llegada
+- Búsqueda en amplitud (BFS) en grafos",v1,2025-11-11,Kevin Ganan,"Diagrama de estructura de datos tipo cola mostrando el flujo unidireccional de elementos. 
+En el extremo derecho se encuentra la etiqueta ""Final"" que representa el punto de encolado 
+(entrada de nuevos elementos). En el extremo izquierdo se encuentra la etiqueta ""Principio"" 
+que representa el punto de desencolado (salida de elementos). 
+
+Las flechas indican la dirección del flujo: los elementos ingresan por el Final y salen por el Principio, 
+siguiendo el principio FIFO (First In, First Out - Primero en Entrar, Primero en Salir). 
+Esto simula el comportamiento de una fila de atención al cliente donde la primera persona 
+en llegar es la primera en ser atendida.
+
+La imagen representa visualmente las operaciones fundamentales de una cola: 
+Encolar (agregar al final) y Desencolar (remover del principio).",data/imagenes/IMG-2025-11-11-Colas-DALLE-5d3234cc.png,2.99,0.033,aceptar
+IMG-20251111-221934,Colas,Una cola es una estructura de datos que almacena elementos en una lista y permite acceder a los datos por uno de los dos extremos de la lista,Dennys chicaiza,claridad,3.0,Bien,2025-11-11T22:21:27,DALL·E,"Explica el funcionamiento de las colas basado en este diagrama conceptual:
+
+**Análisis del Diagrama:**
+- ""Final"" → Punto de ENCOLAR (entrada de elementos)
+- ""Principio"" → Punto de DESENCOLAR (salida de elementos)
+- Flujo unidireccional: Final → Principio
+
+**Desglose Conceptual:**
+1. **Principio FIFO (First In, First Out):**
+   - Primer elemento en entrar es el primero en salir
+   - Analogía: Fila del banco - primera persona en llegar es primera en ser atendida
+
+2. **Operación ENCOLAR (Enqueue):**
+   - Agregar elementos por el FINAL de la cola
+   - Los nuevos elementos se colocan al final de la fila
+   - Ejemplo: Llega nueva persona al banco → se forma al final
+
+3. **Operación DESENCOLAR (Dequeue):**
+   - Remover elementos por el PRINCIPIO de la cola
+   - Siempre se atiende al elemento que lleva más tiempo esperando
+   - Ejemplo: Se atiende a la persona que llegó primero
+
+**Implementación Práctica:**
+[Mostrar código Python/Java/C++ con clase Cola y métodos encolar/desencolar]
+
+**Ejemplo Secuencial:**
+[Mostrar evolución de la cola paso a paso con operaciones encolar/desencolar]
+
+**Aplicaciones Reales:**
+- Sistemas de tickets de atención
+- Buffers de impresión
+- Procesamiento de pedidos por orden de llegada
+- Búsqueda en amplitud (BFS) en grafos",v1,2025-11-11,Kevin Ganan,"Diagrama de estructura de datos tipo cola mostrando el flujo unidireccional de elementos. 
+En el extremo derecho se encuentra la etiqueta ""Final"" que representa el punto de encolado 
+(entrada de nuevos elementos). En el extremo izquierdo se encuentra la etiqueta ""Principio"" 
+que representa el punto de desencolado (salida de elementos). 
+
+Las flechas indican la dirección del flujo: los elementos ingresan por el Final y salen por el Principio, 
+siguiendo el principio FIFO (First In, First Out - Primero en Entrar, Primero en Salir). 
+Esto simula el comportamiento de una fila de atención al cliente donde la primera persona 
+en llegar es la primera en ser atendida.
+
+La imagen representa visualmente las operaciones fundamentales de una cola: 
+Encolar (agregar al final) y Desencolar (remover del principio).",data/imagenes/IMG-2025-11-11-Colas-DALLE-5d3234cc.png,2.99,0.033,aceptar
+IMG-20251111-221934,Colas,Una cola es una estructura de datos que almacena elementos en una lista y permite acceder a los datos por uno de los dos extremos de la lista,Dennys chicaiza,pertinencia,4.0,Bien,2025-11-11T22:21:27,DALL·E,"Explica el funcionamiento de las colas basado en este diagrama conceptual:
+
+**Análisis del Diagrama:**
+- ""Final"" → Punto de ENCOLAR (entrada de elementos)
+- ""Principio"" → Punto de DESENCOLAR (salida de elementos)
+- Flujo unidireccional: Final → Principio
+
+**Desglose Conceptual:**
+1. **Principio FIFO (First In, First Out):**
+   - Primer elemento en entrar es el primero en salir
+   - Analogía: Fila del banco - primera persona en llegar es primera en ser atendida
+
+2. **Operación ENCOLAR (Enqueue):**
+   - Agregar elementos por el FINAL de la cola
+   - Los nuevos elementos se colocan al final de la fila
+   - Ejemplo: Llega nueva persona al banco → se forma al final
+
+3. **Operación DESENCOLAR (Dequeue):**
+   - Remover elementos por el PRINCIPIO de la cola
+   - Siempre se atiende al elemento que lleva más tiempo esperando
+   - Ejemplo: Se atiende a la persona que llegó primero
+
+**Implementación Práctica:**
+[Mostrar código Python/Java/C++ con clase Cola y métodos encolar/desencolar]
+
+**Ejemplo Secuencial:**
+[Mostrar evolución de la cola paso a paso con operaciones encolar/desencolar]
+
+**Aplicaciones Reales:**
+- Sistemas de tickets de atención
+- Buffers de impresión
+- Procesamiento de pedidos por orden de llegada
+- Búsqueda en amplitud (BFS) en grafos",v1,2025-11-11,Kevin Ganan,"Diagrama de estructura de datos tipo cola mostrando el flujo unidireccional de elementos. 
+En el extremo derecho se encuentra la etiqueta ""Final"" que representa el punto de encolado 
+(entrada de nuevos elementos). En el extremo izquierdo se encuentra la etiqueta ""Principio"" 
+que representa el punto de desencolado (salida de elementos). 
+
+Las flechas indican la dirección del flujo: los elementos ingresan por el Final y salen por el Principio, 
+siguiendo el principio FIFO (First In, First Out - Primero en Entrar, Primero en Salir). 
+Esto simula el comportamiento de una fila de atención al cliente donde la primera persona 
+en llegar es la primera en ser atendida.
+
+La imagen representa visualmente las operaciones fundamentales de una cola: 
+Encolar (agregar al final) y Desencolar (remover del principio).",data/imagenes/IMG-2025-11-11-Colas-DALLE-5d3234cc.png,2.99,0.033,aceptar
+IMG-20251111-221934,Colas,Una cola es una estructura de datos que almacena elementos en una lista y permite acceder a los datos por uno de los dos extremos de la lista,Dennys chicaiza,equidad,4.0,Bien,2025-11-11T22:21:27,DALL·E,"Explica el funcionamiento de las colas basado en este diagrama conceptual:
+
+**Análisis del Diagrama:**
+- ""Final"" → Punto de ENCOLAR (entrada de elementos)
+- ""Principio"" → Punto de DESENCOLAR (salida de elementos)
+- Flujo unidireccional: Final → Principio
+
+**Desglose Conceptual:**
+1. **Principio FIFO (First In, First Out):**
+   - Primer elemento en entrar es el primero en salir
+   - Analogía: Fila del banco - primera persona en llegar es primera en ser atendida
+
+2. **Operación ENCOLAR (Enqueue):**
+   - Agregar elementos por el FINAL de la cola
+   - Los nuevos elementos se colocan al final de la fila
+   - Ejemplo: Llega nueva persona al banco → se forma al final
+
+3. **Operación DESENCOLAR (Dequeue):**
+   - Remover elementos por el PRINCIPIO de la cola
+   - Siempre se atiende al elemento que lleva más tiempo esperando
+   - Ejemplo: Se atiende a la persona que llegó primero
+
+**Implementación Práctica:**
+[Mostrar código Python/Java/C++ con clase Cola y métodos encolar/desencolar]
+
+**Ejemplo Secuencial:**
+[Mostrar evolución de la cola paso a paso con operaciones encolar/desencolar]
+
+**Aplicaciones Reales:**
+- Sistemas de tickets de atención
+- Buffers de impresión
+- Procesamiento de pedidos por orden de llegada
+- Búsqueda en amplitud (BFS) en grafos",v1,2025-11-11,Kevin Ganan,"Diagrama de estructura de datos tipo cola mostrando el flujo unidireccional de elementos. 
+En el extremo derecho se encuentra la etiqueta ""Final"" que representa el punto de encolado 
+(entrada de nuevos elementos). En el extremo izquierdo se encuentra la etiqueta ""Principio"" 
+que representa el punto de desencolado (salida de elementos). 
+
+Las flechas indican la dirección del flujo: los elementos ingresan por el Final y salen por el Principio, 
+siguiendo el principio FIFO (First In, First Out - Primero en Entrar, Primero en Salir). 
+Esto simula el comportamiento de una fila de atención al cliente donde la primera persona 
+en llegar es la primera en ser atendida.
+
+La imagen representa visualmente las operaciones fundamentales de una cola: 
+Encolar (agregar al final) y Desencolar (remover del principio).",data/imagenes/IMG-2025-11-11-Colas-DALLE-5d3234cc.png,2.99,0.033,aceptar
+IMG-20251111-221934,Colas,Una cola es una estructura de datos que almacena elementos en una lista y permite acceder a los datos por uno de los dos extremos de la lista,Dennis ,fidelidad,3.0,asdas,2025-11-12T16:54:14,DALL·E,"Explica el funcionamiento de las colas basado en este diagrama conceptual:
+
+**Análisis del Diagrama:**
+- ""Final"" → Punto de ENCOLAR (entrada de elementos)
+- ""Principio"" → Punto de DESENCOLAR (salida de elementos)
+- Flujo unidireccional: Final → Principio
+
+**Desglose Conceptual:**
+1. **Principio FIFO (First In, First Out):**
+   - Primer elemento en entrar es el primero en salir
+   - Analogía: Fila del banco - primera persona en llegar es primera en ser atendida
+
+2. **Operación ENCOLAR (Enqueue):**
+   - Agregar elementos por el FINAL de la cola
+   - Los nuevos elementos se colocan al final de la fila
+   - Ejemplo: Llega nueva persona al banco → se forma al final
+
+3. **Operación DESENCOLAR (Dequeue):**
+   - Remover elementos por el PRINCIPIO de la cola
+   - Siempre se atiende al elemento que lleva más tiempo esperando
+   - Ejemplo: Se atiende a la persona que llegó primero
+
+**Implementación Práctica:**
+[Mostrar código Python/Java/C++ con clase Cola y métodos encolar/desencolar]
+
+**Ejemplo Secuencial:**
+[Mostrar evolución de la cola paso a paso con operaciones encolar/desencolar]
+
+**Aplicaciones Reales:**
+- Sistemas de tickets de atención
+- Buffers de impresión
+- Procesamiento de pedidos por orden de llegada
+- Búsqueda en amplitud (BFS) en grafos",v1,2025-11-11,Kevin Ganan,"Diagrama de estructura de datos tipo cola mostrando el flujo unidireccional de elementos. 
+En el extremo derecho se encuentra la etiqueta ""Final"" que representa el punto de encolado 
+(entrada de nuevos elementos). En el extremo izquierdo se encuentra la etiqueta ""Principio"" 
+que representa el punto de desencolado (salida de elementos). 
+
+Las flechas indican la dirección del flujo: los elementos ingresan por el Final y salen por el Principio, 
+siguiendo el principio FIFO (First In, First Out - Primero en Entrar, Primero en Salir). 
+Esto simula el comportamiento de una fila de atención al cliente donde la primera persona 
+en llegar es la primera en ser atendida.
+
+La imagen representa visualmente las operaciones fundamentales de una cola: 
+Encolar (agregar al final) y Desencolar (remover del principio).",data/imagenes/IMG-2025-11-11-Colas-DALLE-5d3234cc.png,2.99,0.033,aceptar
+IMG-20251111-221934,Colas,Una cola es una estructura de datos que almacena elementos en una lista y permite acceder a los datos por uno de los dos extremos de la lista,Dennis ,claridad,4.0,muy bn,2025-11-12T16:54:14,DALL·E,"Explica el funcionamiento de las colas basado en este diagrama conceptual:
+
+**Análisis del Diagrama:**
+- ""Final"" → Punto de ENCOLAR (entrada de elementos)
+- ""Principio"" → Punto de DESENCOLAR (salida de elementos)
+- Flujo unidireccional: Final → Principio
+
+**Desglose Conceptual:**
+1. **Principio FIFO (First In, First Out):**
+   - Primer elemento en entrar es el primero en salir
+   - Analogía: Fila del banco - primera persona en llegar es primera en ser atendida
+
+2. **Operación ENCOLAR (Enqueue):**
+   - Agregar elementos por el FINAL de la cola
+   - Los nuevos elementos se colocan al final de la fila
+   - Ejemplo: Llega nueva persona al banco → se forma al final
+
+3. **Operación DESENCOLAR (Dequeue):**
+   - Remover elementos por el PRINCIPIO de la cola
+   - Siempre se atiende al elemento que lleva más tiempo esperando
+   - Ejemplo: Se atiende a la persona que llegó primero
+
+**Implementación Práctica:**
+[Mostrar código Python/Java/C++ con clase Cola y métodos encolar/desencolar]
+
+**Ejemplo Secuencial:**
+[Mostrar evolución de la cola paso a paso con operaciones encolar/desencolar]
+
+**Aplicaciones Reales:**
+- Sistemas de tickets de atención
+- Buffers de impresión
+- Procesamiento de pedidos por orden de llegada
+- Búsqueda en amplitud (BFS) en grafos",v1,2025-11-11,Kevin Ganan,"Diagrama de estructura de datos tipo cola mostrando el flujo unidireccional de elementos. 
+En el extremo derecho se encuentra la etiqueta ""Final"" que representa el punto de encolado 
+(entrada de nuevos elementos). En el extremo izquierdo se encuentra la etiqueta ""Principio"" 
+que representa el punto de desencolado (salida de elementos). 
+
+Las flechas indican la dirección del flujo: los elementos ingresan por el Final y salen por el Principio, 
+siguiendo el principio FIFO (First In, First Out - Primero en Entrar, Primero en Salir). 
+Esto simula el comportamiento de una fila de atención al cliente donde la primera persona 
+en llegar es la primera en ser atendida.
+
+La imagen representa visualmente las operaciones fundamentales de una cola: 
+Encolar (agregar al final) y Desencolar (remover del principio).",data/imagenes/IMG-2025-11-11-Colas-DALLE-5d3234cc.png,2.99,0.033,aceptar
+IMG-20251111-221934,Colas,Una cola es una estructura de datos que almacena elementos en una lista y permite acceder a los datos por uno de los dos extremos de la lista,Dennis ,pertinencia,3.0,uybyu,2025-11-12T16:54:14,DALL·E,"Explica el funcionamiento de las colas basado en este diagrama conceptual:
+
+**Análisis del Diagrama:**
+- ""Final"" → Punto de ENCOLAR (entrada de elementos)
+- ""Principio"" → Punto de DESENCOLAR (salida de elementos)
+- Flujo unidireccional: Final → Principio
+
+**Desglose Conceptual:**
+1. **Principio FIFO (First In, First Out):**
+   - Primer elemento en entrar es el primero en salir
+   - Analogía: Fila del banco - primera persona en llegar es primera en ser atendida
+
+2. **Operación ENCOLAR (Enqueue):**
+   - Agregar elementos por el FINAL de la cola
+   - Los nuevos elementos se colocan al final de la fila
+   - Ejemplo: Llega nueva persona al banco → se forma al final
+
+3. **Operación DESENCOLAR (Dequeue):**
+   - Remover elementos por el PRINCIPIO de la cola
+   - Siempre se atiende al elemento que lleva más tiempo esperando
+   - Ejemplo: Se atiende a la persona que llegó primero
+
+**Implementación Práctica:**
+[Mostrar código Python/Java/C++ con clase Cola y métodos encolar/desencolar]
+
+**Ejemplo Secuencial:**
+[Mostrar evolución de la cola paso a paso con operaciones encolar/desencolar]
+
+**Aplicaciones Reales:**
+- Sistemas de tickets de atención
+- Buffers de impresión
+- Procesamiento de pedidos por orden de llegada
+- Búsqueda en amplitud (BFS) en grafos",v1,2025-11-11,Kevin Ganan,"Diagrama de estructura de datos tipo cola mostrando el flujo unidireccional de elementos. 
+En el extremo derecho se encuentra la etiqueta ""Final"" que representa el punto de encolado 
+(entrada de nuevos elementos). En el extremo izquierdo se encuentra la etiqueta ""Principio"" 
+que representa el punto de desencolado (salida de elementos). 
+
+Las flechas indican la dirección del flujo: los elementos ingresan por el Final y salen por el Principio, 
+siguiendo el principio FIFO (First In, First Out - Primero en Entrar, Primero en Salir). 
+Esto simula el comportamiento de una fila de atención al cliente donde la primera persona 
+en llegar es la primera en ser atendida.
+
+La imagen representa visualmente las operaciones fundamentales de una cola: 
+Encolar (agregar al final) y Desencolar (remover del principio).",data/imagenes/IMG-2025-11-11-Colas-DALLE-5d3234cc.png,2.99,0.033,aceptar
+IMG-20251111-221934,Colas,Una cola es una estructura de datos que almacena elementos en una lista y permite acceder a los datos por uno de los dos extremos de la lista,Dennis ,equidad,3.0,uybuy,2025-11-12T16:54:14,DALL·E,"Explica el funcionamiento de las colas basado en este diagrama conceptual:
+
+**Análisis del Diagrama:**
+- ""Final"" → Punto de ENCOLAR (entrada de elementos)
+- ""Principio"" → Punto de DESENCOLAR (salida de elementos)
+- Flujo unidireccional: Final → Principio
+
+**Desglose Conceptual:**
+1. **Principio FIFO (First In, First Out):**
+   - Primer elemento en entrar es el primero en salir
+   - Analogía: Fila del banco - primera persona en llegar es primera en ser atendida
+
+2. **Operación ENCOLAR (Enqueue):**
+   - Agregar elementos por el FINAL de la cola
+   - Los nuevos elementos se colocan al final de la fila
+   - Ejemplo: Llega nueva persona al banco → se forma al final
+
+3. **Operación DESENCOLAR (Dequeue):**
+   - Remover elementos por el PRINCIPIO de la cola
+   - Siempre se atiende al elemento que lleva más tiempo esperando
+   - Ejemplo: Se atiende a la persona que llegó primero
+
+**Implementación Práctica:**
+[Mostrar código Python/Java/C++ con clase Cola y métodos encolar/desencolar]
+
+**Ejemplo Secuencial:**
+[Mostrar evolución de la cola paso a paso con operaciones encolar/desencolar]
+
+**Aplicaciones Reales:**
+- Sistemas de tickets de atención
+- Buffers de impresión
+- Procesamiento de pedidos por orden de llegada
+- Búsqueda en amplitud (BFS) en grafos",v1,2025-11-11,Kevin Ganan,"Diagrama de estructura de datos tipo cola mostrando el flujo unidireccional de elementos. 
+En el extremo derecho se encuentra la etiqueta ""Final"" que representa el punto de encolado 
+(entrada de nuevos elementos). En el extremo izquierdo se encuentra la etiqueta ""Principio"" 
+que representa el punto de desencolado (salida de elementos). 
+
+Las flechas indican la dirección del flujo: los elementos ingresan por el Final y salen por el Principio, 
+siguiendo el principio FIFO (First In, First Out - Primero en Entrar, Primero en Salir). 
+Esto simula el comportamiento de una fila de atención al cliente donde la primera persona 
+en llegar es la primera en ser atendida.
+
+La imagen representa visualmente las operaciones fundamentales de una cola: 
+Encolar (agregar al final) y Desencolar (remover del principio).",data/imagenes/IMG-2025-11-11-Colas-DALLE-5d3234cc.png,2.99,0.033,aceptar
+IMG-20251112-111825,"Árboles, estructuras de datos.",Árbol de Búsqueda Binaria (Binary Search Tree - BST).,Dennys chicaiza,fidelidad,4.0,Si muy bueno,2025-11-12T11:20:52,Gemini,"Un árbol de búsqueda binaria abstracto, representado como una estructura de datos digital vibrante y luminosa. Las raíces del árbol se extienden en un circuito neuronal, y sus ramas se ramifican en nodos interconectados con datos fluyendo entre ellos, simbolizando la eficiencia de la recuperación y organización de la información. El fondo es oscuro para resaltar los colores neón de la estructura.",v1,2025-11-12,Kevin ganan,"Árbol binario de búsqueda abstracto y digital, con nodos brillantes de color azul y verde conectados por líneas luminosas sobre un fondo oscuro. La estructura se asemeja a una red neuronal o a un holograma, ilustrando la organización jerárquica de los datos.",data/imagenes/IMG-2025-11-12-Arboles-estructuras-de-d-Gemini-cfbf4946.png,4.3,0.087,aceptar
+IMG-20251112-111825,"Árboles, estructuras de datos.",Árbol de Búsqueda Binaria (Binary Search Tree - BST).,Dennys chicaiza,claridad,4.0,No cumple,2025-11-12T11:20:52,Gemini,"Un árbol de búsqueda binaria abstracto, representado como una estructura de datos digital vibrante y luminosa. Las raíces del árbol se extienden en un circuito neuronal, y sus ramas se ramifican en nodos interconectados con datos fluyendo entre ellos, simbolizando la eficiencia de la recuperación y organización de la información. El fondo es oscuro para resaltar los colores neón de la estructura.",v1,2025-11-12,Kevin ganan,"Árbol binario de búsqueda abstracto y digital, con nodos brillantes de color azul y verde conectados por líneas luminosas sobre un fondo oscuro. La estructura se asemeja a una red neuronal o a un holograma, ilustrando la organización jerárquica de los datos.",data/imagenes/IMG-2025-11-12-Arboles-estructuras-de-d-Gemini-cfbf4946.png,4.3,0.087,aceptar
+IMG-20251112-111825,"Árboles, estructuras de datos.",Árbol de Búsqueda Binaria (Binary Search Tree - BST).,Dennys chicaiza,pertinencia,3.0,Si cumple,2025-11-12T11:20:52,Gemini,"Un árbol de búsqueda binaria abstracto, representado como una estructura de datos digital vibrante y luminosa. Las raíces del árbol se extienden en un circuito neuronal, y sus ramas se ramifican en nodos interconectados con datos fluyendo entre ellos, simbolizando la eficiencia de la recuperación y organización de la información. El fondo es oscuro para resaltar los colores neón de la estructura.",v1,2025-11-12,Kevin ganan,"Árbol binario de búsqueda abstracto y digital, con nodos brillantes de color azul y verde conectados por líneas luminosas sobre un fondo oscuro. La estructura se asemeja a una red neuronal o a un holograma, ilustrando la organización jerárquica de los datos.",data/imagenes/IMG-2025-11-12-Arboles-estructuras-de-d-Gemini-cfbf4946.png,4.3,0.087,aceptar
+IMG-20251112-111825,"Árboles, estructuras de datos.",Árbol de Búsqueda Binaria (Binary Search Tree - BST).,Dennys chicaiza,equidad,3.0,Si cumple,2025-11-12T11:20:52,Gemini,"Un árbol de búsqueda binaria abstracto, representado como una estructura de datos digital vibrante y luminosa. Las raíces del árbol se extienden en un circuito neuronal, y sus ramas se ramifican en nodos interconectados con datos fluyendo entre ellos, simbolizando la eficiencia de la recuperación y organización de la información. El fondo es oscuro para resaltar los colores neón de la estructura.",v1,2025-11-12,Kevin ganan,"Árbol binario de búsqueda abstracto y digital, con nodos brillantes de color azul y verde conectados por líneas luminosas sobre un fondo oscuro. La estructura se asemeja a una red neuronal o a un holograma, ilustrando la organización jerárquica de los datos.",data/imagenes/IMG-2025-11-12-Arboles-estructuras-de-d-Gemini-cfbf4946.png,4.3,0.087,aceptar
+IMG-20251112-165259,Pilas," es una estructura de datos lineal que sigue el principio LIFO (Last In, First Out), lo que significa que el último elemento en entrar es el primero en salir.",,,,,,Gemini,Soy un estudiante/programador que quiere aprender sobre pilas en estructuras de datos desde los fundamentos hasta la implementación práctica.,v1,2025-11-12,Kevin Ganan, fundamentos hasta la implementación práctica.,data/imagenes/IMG-2025-11-12-Pilas-Gemini-2f3e6185.png,1.47,0.041,pendiente
