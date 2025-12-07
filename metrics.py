@@ -1,8 +1,8 @@
 import numpy as np
 import pandas as pd
-from PIL import Image
+from PIL import Image, ImageFilter
 from sklearn.cluster import KMeans
-import cv2
+# NO import cv2 - eliminado
 
 # -----------------------------
 # Imagen: métricas objetivas
@@ -26,12 +26,22 @@ def wcag_like_contrast_ratio(img: Image.Image, k=2):
 
 def edge_density(img: Image.Image):
     """
-    Densidad de bordes (Canny) como proxy de "ruido visual".
+    Densidad de bordes usando filtros Pillow (sin OpenCV).
     """
+    # Convertir a escala de grises y redimensionar
     im = img.convert("L").resize((512, 512))
-    arr = np.asarray(im)
-    edges = cv2.Canny(arr, 100, 200)
-    return float(edges.mean() / 255.0)  # 0..1
+    
+    # Aplicar filtro de detección de bordes
+    edges = im.filter(ImageFilter.FIND_EDGES)
+    
+    # Convertir a array numpy
+    edges_arr = np.array(edges, dtype=np.float32)
+    
+    # Normalizar y calcular densidad (0-1)
+    if edges_arr.max() > 0:
+        edges_arr = edges_arr / edges_arr.max()
+    
+    return float(edges_arr.mean())
 
 # -----------------------------
 # Acuerdo entre evaluadores

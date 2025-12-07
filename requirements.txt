@@ -2,5 +2,5 @@ streamlit==1.39.0
 pandas==2.2.2
 numpy==1.26.4
 Pillow==10.4.0
-scikit-learn==1.5.2
-opencv-python==4.10.0.84
+scikit-learn==1.4.0
+scipy==1.13.0  # Para filtro Sobel (opcional)
